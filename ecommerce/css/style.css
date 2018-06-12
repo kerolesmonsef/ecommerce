@@ -1,0 +1,33 @@
+.panel-info > .panel-heading{
+   margin: 0 -15px;
+    color: red;
+}
+form,.panel{
+    margin-top: 150px;
+    padding-bottom: 20px;
+}
+.table tr:hover {
+    background-color: #286090;
+}
+.table tr td button{padding:0 10px;}
+.table tr{
+    cursor: pointer;
+}
+.dropdown-menu > li > a{
+    cursor: pointer;
+}
+#wanted-ul{
+    width: 100%;
+    padding: 6px 12px;
+    border-radius: 4px;
+}
+select option{
+    width: 100%;
+    padding: 6px 12px;
+    margin: 20px;
+}
+.table > tbody > tr > th{
+    max-width: 100px;
+    overflow: hidden;
+    max-height: 100px;
+}

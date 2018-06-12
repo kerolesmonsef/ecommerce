@@ -1,0 +1,148 @@
+.login{
+    margin: 100px auto;
+    width: 400px;
+    background-color: #DDD;
+    border-radius: 10px;
+    padding: 10px 20px 20px;
+}
+body{
+    font-size: 16px;
+    padding-top: 120px;
+}
+.navbar-inverse .navbar-brand {
+    color: #972121;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #955050;
+}
+.container .editform{
+    max-width: 600px;
+    margin: 50px auto;
+    background-color:#DDDDDD;
+    padding: 20px 0;
+    border-radius: 5px;
+}
+.container .editform h1{
+    margin-bottom: 30px;
+    color: #666665;
+    font-weight: bold;
+}
+.navbar {
+     border-radius: 0;
+}
+ .editform .alert{
+    padding: 5px 30px 5px 5px;
+    margin: 0;
+ }
+ .show-pass{
+    position: absolute;
+    right: 20px;
+    cursor: pointer;
+ }
+ .manage-table thead td{
+    background-color: #222222;
+    color: #955050;
+ }
+ .table-responsive h1{
+    margin-bottom: 30px;
+    font-weight: 900;
+    color: #666;
+    font-family: 'Forte';
+ }
+  .manage-table tbody td button{
+    padding: 3px 10px;
+  }
+  .manage-table thead,.manage-table tr{
+    text-align: center;
+  }
+ 
+ 
+  .row .box{
+    background-color: #eee;
+    border: 1px solid #CCC;
+    padding: 10px 0;
+    margin: 20px 0;
+    border-radius: 5px;
+    color: white;
+  }
+  .row .box h1{
+    font-size: 60px;
+  }
+  .row .box h1 a{
+    text-decoration: none;
+    color: #FFF;
+  }
+  .member-list li{
+    margin: 10px 0;
+    overflow: hidden;
+  }
+  .member-list li a{
+    float: right;
+    margin: 0 3px;
+  }
+.member-list li:nth-child(even){
+    background-color: #EEE;
+}
+.cat{
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    border-bottom: 1px solid #EEE;
+    padding: 20px 0 20px 10px;
+    transition: 1s;
+
+}
+.cat:hover{
+  background-color: #eee;
+  border-radius: 5px;
+}
+.cat:last-child hr{
+    display: none;
+
+}
+.cat .add,.cat .com,.cat .vis,.cat .des{
+    padding: 4px 7px;
+    color: white;
+    margin: 0 5px;
+    border-radius: 8px;
+}
+.cat .com{
+    background-color: #E45600;
+   
+}
+.cat .vis{
+    background-color: #C54230;
+   
+}
+.cat .des{
+    background-color: #742894;
+    
+}
+.cat .add{
+    background-color: #253B4F;
+
+}
+.edit-del-div{
+  display: inline;
+  float: right;
+  right: -125px;
+  overflow: hidden;
+  position: relative;
+}
+.cat .under-btn-del-up{
+ 
+}
+.dont-show{
+   display: none;
+}
+.full-showing,.classic-showing{
+  float: right;
+  margin:  5px;
+}
+.panel-heading{
+  padding: 10px ;
+  overflow:hidden;
+}
+input[type='range']{
+  border: 1px solid #000;
+}

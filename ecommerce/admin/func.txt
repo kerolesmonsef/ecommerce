@@ -1,0 +1,20 @@
+function countitem(table,attribute)                			          // in the head
+function checkitem($tablename,$columnname,$value)   		          // in the head
+function showmessage($wantedpage,$message,$time,$strong,$class){	  // in the head
+function countitemwhere($table,$attr,$condtion,$wanted){              // in the head
+function getlatest($table,$wanted,$limit=3){                          // in the head
+
+3
+2 3 3
+
+3 
+0 9 9
+
+3 
+1 2 3
+
+3 
+2 3 5
+
+4 
+1 2 3 6
